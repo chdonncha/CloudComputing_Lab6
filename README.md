@@ -1,1 +1,1 @@
-# CloudComputing_Lab6
+# cc-lab6-storage
